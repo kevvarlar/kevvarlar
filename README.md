@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email: kevinvar2805@gmail.com, Phone: 3466867561, Meetup: https://calendly.com/kevinvar2805/30min, LinkedIn: https://www.linkedin.com/in/kevinvargaslaracuente/
 - 🙂 Portfolio: https://kevinvargas.up.railway.app/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to want to be an NBA player
+- ⚡ Fun fact: I like to play basketball
 
 <!---
 kevvarlar/kevvarlar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
