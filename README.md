@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevvarlar
 - 👀 I’m interested in Software Engineering, Gaming, and Basketball.
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: Email: kevinvar2805@gmail.com, Phone: 3466867561, Meetup: https://calendly.com/kevinvar2805/30min, LinkedIn: https://www.linkedin.com/in/kevinvargaslaracuente/
 - 🙂 Portfolio: https://kevinvargas.up.railway.app/
